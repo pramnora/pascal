@@ -6,7 +6,7 @@
 # My 1st pascal 'Hello, world!' program   
 
 
-*NOTE*: I'm currently running: Linux Mint 22.3 OS/Operating System 
+**NOTE**: I'm currently running: Linux Mint 22.3 OS/Operating System 
 
 ## Download
 
@@ -22,7 +22,7 @@ Write 'Hello, world!' program:
 Save as:   
 hw.pas  
 
-*NOTE*: Pascal files use filename extension: *.pas*  
+**NOTE**: Pascal files use filename extension: *.pas*  
 
 Compile:  
 
