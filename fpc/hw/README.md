@@ -35,10 +35,13 @@ Compile:
 
 > fpc hw.pas  
 
-2 extra files will have been created:-  
+If you list the files...; you should find 3 files being listed altogether:-    
 
-1> hw.o (the binary code object file)         
-2> hw  (the executable file)   
+> ls  
+
+1. hw.pas (the Pascal source code/text based file)  
+2. hw.o (the binary code object file)         
+3. hw  (the executable file)   
 
 Run:  
 
