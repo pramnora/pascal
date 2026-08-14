@@ -53,9 +53,9 @@ If you list the files...; you should find 3 files being listed altogether:-
 
 > ls  
 
-1. hw.pas (the Pascal source code/text based file)  
-2. hw.o (the binary code object file)         
-3. hw  (the executable file)   
+1. hw.pas - (the Pascal source code/text based file)  
+2. hw.o - (the binary code object file)         
+3. hw  - (the executable file)   
 
 ### Run:  
 
