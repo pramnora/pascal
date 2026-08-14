@@ -23,7 +23,7 @@ Open Nano text editor
 Write 'Hello, world!' program:  
 
 > program hw;  
-> begin
+> begin  
 >   writeln('Hello, world! From FREE Pascal Compiler');    
 > end.  
 
