@@ -14,7 +14,20 @@
 
 > sudo apt install fpc  
 
-### Write: 'Hello, world!' program  
+### Method 1: Write: 'Hello, world!' program using cat  
+
+-(**NOTE**: A somewhat unusual way of writing it; but, also, one well worth noting, I think.)-    
+
+> cat << 'EOF' > hello.pas  
+> program Hello;  
+> begin  
+>  writeln('Hello from Linux Mint!');  
+> end.  
+> EOF  
+
+### Method 2: Write: 'Hello, world!' program using Nano text editor  
+
+-(**NOTE**: This is the more usual method.)-   
 
 Open Nano text editor  
 
