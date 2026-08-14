@@ -32,7 +32,7 @@
 
 Open Nano text editor.../and, pass in the *filename.extension* to write...    
 
-> Nano hw.pas  
+> nano hw.pas  
 
 **NOTE**: Pascal files use filename extension: *.pas*  
 
