@@ -72,6 +72,11 @@ Hello, world! From FREE Pascal Compiler
 With these instructions having been learned...;    
 you should be able to **create/compile/run** any fpc [*.pas*] program, now.    
 
+I like using FPC version of Pascal...; because, I can run it from inside of the Terminal window...;  
+and, as pure text.  
+
+However, I'm also very deeply interested in learning how to use Lazarus GUI based Pascal, as well.  
+  
 
 
 
