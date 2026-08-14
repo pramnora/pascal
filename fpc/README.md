@@ -43,7 +43,7 @@ Open Nano text editor
 
 Save the file inside of Nano/then, quit from the editor:     
 
-[CTRL] + [X], then, [Y]  
+[CTRL] + [X]; then, [Y]  
    
 ### Compile:  
 
