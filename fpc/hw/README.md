@@ -21,7 +21,7 @@ hw.pas
 
 *NOTE*: Pascal files have extension: *.pas*  
 
-Run:  
+Compile:  
 
 > fpc hw.pas  
 
@@ -30,9 +30,11 @@ Run:
 1> hw.o (the binary code object file)         
 2> hw  (the executable file)   
 
+Run:  
+
 > ./hw  
 
-output:  
+Output:  
 
 Hello, world! From FREE Pascal Compiler   
 
