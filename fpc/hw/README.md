@@ -14,6 +14,12 @@
 
 > sudo apt install fpc  
 
+Open Nano text editor  
+
+> Nano hw.pas  
+
+**NOTE**: Pascal files use filename extension: *.pas*  
+
 Write 'Hello, world!' program:  
 
 > program hw;  
@@ -21,11 +27,10 @@ Write 'Hello, world!' program:
 >   writeln('Hello, world! From FREE Pascal Compiler');    
 > end.  
 
-Save as:   
-hw.pas  
+Save the file inside of Nano/then, quit from the editor:     
 
-**NOTE**: Pascal files use filename extension: *.pas*  
-
+[CTRL] + [X], then, [Y]  
+   
 Compile:  
 
 > fpc hw.pas  
