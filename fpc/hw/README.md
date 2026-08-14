@@ -22,7 +22,7 @@ Write 'Hello, world!' program:
 Save as:   
 hw.pas  
 
-*NOTE*: Pascal files have extension: *.pas*  
+*NOTE*: Pascal files use filename extension: *.pas*  
 
 Compile:  
 
