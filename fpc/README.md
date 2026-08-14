@@ -30,7 +30,7 @@
 
 -(**NOTE**: This is the more *usual* writing method by using a **text editor** program.)-   
 
-Open Nano text editor  
+Open Nano text editor.../and, pass in the *filename.extension* to write...    
 
 > Nano hw.pas  
 
