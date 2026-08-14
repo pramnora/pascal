@@ -14,13 +14,13 @@
 
 > sudo apt install fpc  
 
+### Write: 'Hello, world!' program  
+
 Open Nano text editor  
 
 > Nano hw.pas  
 
 **NOTE**: Pascal files use filename extension: *.pas*  
-
-### Write: 'Hello, world!' program  
 
 > program hw;  
 > begin  
