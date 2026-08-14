@@ -16,7 +16,8 @@
 
 ### Method 1: Write: 'Hello, world!' program using cat  
 
--(**NOTE**: A somewhat unusual way of writing it; but, also, one well worth noting, I think.)-    
+-(**NOTE**: A somewhat *unusual* way of writing the program...without using any editor program: Nano/Vim/-etc.;       
+   but, also, one well worth very carefully **noting**, I think.)-        
 
 > cat << 'EOF' > hello.pas  
 > program Hello;  
@@ -27,7 +28,7 @@
 
 ### Method 2: Write: 'Hello, world!' program using Nano text editor  
 
--(**NOTE**: This is the more usual method.)-   
+-(**NOTE**: This is the more *usual* writing method by using a **text editor** program.)-   
 
 Open Nano text editor  
 
