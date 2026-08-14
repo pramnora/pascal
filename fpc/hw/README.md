@@ -20,7 +20,7 @@ Open Nano text editor
 
 **NOTE**: Pascal files use filename extension: *.pas*  
 
-Write 'Hello, world!' program:  
+### Write 'Hello, world!' program:  
 
 > program hw;  
 > begin  
@@ -31,7 +31,7 @@ Save the file inside of Nano/then, quit from the editor:
 
 [CTRL] + [X], then, [Y]  
    
-Compile:  
+### Compile:  
 
 > fpc hw.pas  
 
@@ -43,7 +43,7 @@ If you list the files...; you should find 3 files being listed altogether:-
 2. hw.o (the binary code object file)         
 3. hw  (the executable file)   
 
-Run:  
+### Run:  
 
 > ./hw  
 
