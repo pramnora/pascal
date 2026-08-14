@@ -20,7 +20,7 @@ Open Nano text editor
 
 **NOTE**: Pascal files use filename extension: *.pas*  
 
-### Write 'Hello, world!' program:  
+### Write: 'Hello, world!' program  
 
 > program hw;  
 > begin  
