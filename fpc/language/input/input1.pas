@@ -2,7 +2,7 @@ program input1;
 
 var
   userName: String;
-  age: Real;
+  age: Integer;
 
 begin
   write('Enter you name: ');
