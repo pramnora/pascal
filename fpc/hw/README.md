@@ -56,7 +56,7 @@ Hello, world! From FREE Pascal Compiler
 ## Conclusion  
 
 With these instructions having been learned...;    
-you should be able to create/compile/run any *.pas* program, now.    
+you should be able to **create/compile/run** any *.pas* program, now.    
 
 
 
