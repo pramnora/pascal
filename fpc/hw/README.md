@@ -13,12 +13,31 @@ Write 'Hello, world!' program:
 
 > program hw;  
 > begin
->   writeln('Hello, world!');
-> end.
+>   writeln('Hello, world! From FREE Pascal Compiler');    
+> end.  
 
-Save as: 
-hw.pas
+Save as:   
+hw.pas  
 
-*NOTE*: Pascal files have extension: *.pas*
+*NOTE*: Pascal files have extension: *.pas*  
+
+Run:  
+
+> fpc hw.pas  
+
+2 extra files will have been created:-  
+
+1> hw.o (the binary code object file)         
+2> hw  (the executable file)   
+
+> ./hw  
+
+output:  
+
+Hello, world! From FREE Pascal Compiler   
+
+
+
+
 
 
